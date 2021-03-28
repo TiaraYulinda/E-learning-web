@@ -1,0 +1,57 @@
+//Pengertian Sistem
+1. Anggraeni, E. Y. (2017). Pengantar Sistem Informasi. Penerbit Andi.
+
+2. Mulyani, S. (2017). Analisis dan Perancangan Sistem Informasi Manajemen Keuangan Daerah: Notasi Pemodelan Unified Modeling Language (UML). Abdi Sistematika.
+
+3. Maniah, A. (2017). Perancangan Sistem Informasi Pembahasan Secara Praktis dengan Contoh Kasus. Sleman: CV Budi Utama.
+
+//Pengertian data
+1. Anggraeni, E. Y. (2017). Pengantar Sistem Informasi. Penerbit Andi. (sama ky sistem)
+
+2. Indrajani, S. (2018). Database Systems All in One Theory, Practice, and Case Study. Jakarta:Elex Media Komputindo.
+
+3. Romney, Marshall B dan Paul John Steinbart. (2015). Sistem Informasi Akuntansi Edisi 13. Diterjemahkan oleh: Kikin Sakinah Nur Safira dan Novita Puspasari. (2016). Jakarta: Selemba Empat. 
+
+//pengertian informasi
+1. Anggraeni, E. Y. (2017). Pengantar Sistem Informasi. Penerbit Andi. (sama ky sistem)
+
+2. Nafiudin, S. (2019). Sistem informasi manajemen. Penerbit Qiara Media.
+
+//pengertian sistem informasi
+1. Muslihudin, M. (2016). Analisis Dan Perancangan Sistem Informasi Menggunakan Model Terstruktur Dan UML. Yogyakarta:Andi.
+
+//pengertian rancang bangun
+1. Purbasari, Y. (2017). Rancang Bangun Aplikasi Penjualan Dan Persediaan Obat Pada Apotek Merben Di Kota Prabumulih. jsk (Jurnal Sistem Informasi dan Komputerisasi Akuntansi), 1(1), 81-88. (rancang bangun)
+
+//pengertian e-learning
+1. Simanihuruk, L., Simarmata, J., Sudirman, A., Hasibuan, M. S., Safitri, M., Sulaiman, O. K., ... & Sahir, S. H. (2019). E-Learning: Implementasi, Strategi dan Inovasinya. Yayasan Kita Menulis.
+
+//manfaat e-learning
+1. Hartanto, W. (2016). Penggunaan E-Learning Sebagai Media Pembelajaran. Jurnal Pendidikan Ekonomi: Jurnal Ilmiah Ilmu Pendidikan, Ilmu Ekonomi dan Ilmu Sosial, 10(1).
+
+//pengertian tugas
+1. Tugas (Def.1) (n.d). Dalam Kamus Besar Bahasa Indonesia (KBBI) Online. Diakses melalui https://kbbi.kemdikbud.go.id/entri/tugas, 12 Juli 2020.
+
+2. Widyajayanti, W., & Istiqomah, I. (2018, February). ANALISIS INTENSITAS PEMBERIAN PEKERJAAN RUMAH (PR) DALAM MENINGKATKAN HASIL BELAJAR MATEMATIKA. In Prosiding Seminar Nasional Pendidikan Matematika Etnomatnesia.
+
+//analisa sistem
+1. Mulyani, S. (2017). Metode Analisis dan Perancangan Sistem. Abdi Sistematika.
+
+2. ARIF, M. F., Kom, S., & Kom, M. (2019). Analisis dan Perancangan Sistem Informasi. Penerbit Qiara Media.
+
+//sdlc
+1. 1. Mulyani, S. (2017). Metode Analisis dan Perancangan Sistem. Abdi Sistematika. (sama ky analisis sistem)
+
+//blackbox
+1. Wicaksono, S. R. (2017). Rekayasa Perangkat Lunak. Seribu Bintang.
+
+//UML
+1. Rosa A. S dan M. Shalahuddin. (2015). Rekayasa Perangkat Lunak Terstruktur dan Berorientasi Objek. Bandung: INFORMATIKA.
+
+//xampp
+1. Kristania, Y. M., Maryani, I., Asyifudin, I., Informasi, S., Informasi, S., & Informatika, M. (2017). Sistem Informasi Akademik Berbasis Web Pada Smk Negeri 2 Banyumas, 5(2), 82–89
+
+2. Fridayanthie, E. W., & Mahdiati, T. (2016). Rancang Bangun Sistem Informasi Permintaan ATK Berbasis Intranet (Studi Kasus: Kejaksaan Negeri Rangkasbitung). Jurnal Khatulistiwa Informatika, 4(2).
+
+//visio
+1. Iskandar, Y. (2018). Buku Ajar Pengantar Aplikasi Komputer. Deepublish.
